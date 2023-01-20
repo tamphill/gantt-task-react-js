@@ -10,7 +10,5 @@
 
 #### build and run
 
-1. install dependency
-   yarn
-2. run local environment
-   yarn start
+1.  yarn
+2.  yarn start
